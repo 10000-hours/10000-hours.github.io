@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Git学习纪要
-category: tech
+category: detail
 tags: Git tutorial
 ---
 

@@ -3,7 +3,7 @@
         {% else %}一万小时 <a href="http://10000-hours.github.com/feed.xml"><img src="/assets/images/rss.gif"></img></a>
         <iframe width="63" height="24" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0" scrolling="no" border="0" src="http://widget.weibo.com/relationship/followbutton.php?language=zh_cn&width=63&height=24&uid=1068998583&style=1&btn=red&dpc=1"></iframe>
         {% endif %}</h1>
-	<p class="additional">阅读, 人生, 技术
+	<p class="additional">远没到拼智商的时候
 	<a href="javascript:void(0)" onclick="showhelp()" title="Keyboard shortcuts are supported, press ? to show the help">
 		<img src="/assets/images/keyboard.png" id="keyboard"></img>
 	</a>
@@ -12,7 +12,6 @@
     <a href="/category.html">Category</a>
     <a href="/archive.html">Archive</a>
     <a href="/projects.html">Projects</a>
-    <a href="/portfolio.html">Portfolios</a>
     <a href="/about.html">About</a>
     <a href="/misc.html">Misc</a>
     </div>

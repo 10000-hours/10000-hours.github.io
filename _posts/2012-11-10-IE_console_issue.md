@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IE下console惹得祸
-category: tech
+category: detail
 tags: IE console Javascript
 ---
 

@@ -2,7 +2,7 @@
 layout: post 
 tags: GSoC 
 title: Dig into code base and Refine the trac feeds 
-category: tech 
+category: detail 
 ---
 
 The passed week was very busy to me, since the graduation reply. I'm happy that I am about to graduate from the 19 years schooling career, which is really long.  A new start to me, and a new start since then.

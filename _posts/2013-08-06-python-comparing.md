@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python中的对象比较
-category: tech
+category: detail
 tags: Python Comparisions 哲学 弊端
 ---
 

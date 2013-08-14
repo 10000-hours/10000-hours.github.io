@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iOS下使用本地文件存储应用数据(NSBundle和NSDocumentDirectory)
-category: tech
+category: detail
 tags: iOS 安全 sandbox
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 自动生成不同DPI资源的新项目（Mobile Resource Helper)
-category: tech
+category: detail
 tags: 
 ---
 

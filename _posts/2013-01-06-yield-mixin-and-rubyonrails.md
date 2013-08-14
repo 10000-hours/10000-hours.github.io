@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruby初学体会（与Python类比）
-category: tech
+category: detail
 tags: python ruby yield mixin
 ---
 

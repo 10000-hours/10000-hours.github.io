@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 编译原理系列之词法分析相关重要工具
-category: tech
+category: detail
 tags: Lex FSM
 ---
 

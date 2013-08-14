@@ -9,22 +9,22 @@ host: towerjoo.github.io
 
 custom:
     category:
-        reading: 阅读模式
-        non-tech: 人生模式
-        tech: 技术模式
-        tiantian: 你若安好便是晴天
+        thoughts: 所思所想
+        detail: 点滴技术
+        ideas: 创意想法
+        others: 分类之外
     categories:
-      - name:  reading
-        title: 阅读模式
+      - name:  toughts
+        title: 所思所想
 
-      - name:  non-tech
-        title: 人生模式
+      - name:  detail
+        title: 点滴技术
 
-      - name:  tech
-        title: 技术模式
+      - name:  ideas
+        title: 创意想法
 
-      - name:  tiantian
-        title: 你若安好便是晴天
+      - name:  others
+        title: 分类之外
 
 meta:
     authors:

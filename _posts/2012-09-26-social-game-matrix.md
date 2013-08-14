@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 社交游戏Matrix
-category: tech
+category: detail
 tags: 
 ---
 

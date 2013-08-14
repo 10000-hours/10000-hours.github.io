@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 常见的编程idioms
-category: tech
+category: detail
 tags: RAII DIP IoC 
 ---
 

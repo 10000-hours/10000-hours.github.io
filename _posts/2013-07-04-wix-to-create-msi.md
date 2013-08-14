@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WiX——用于制作Windows MSI安装程序的利器
-category: tech
+category: detail
 tags: WiX MSI CI
 ---
 

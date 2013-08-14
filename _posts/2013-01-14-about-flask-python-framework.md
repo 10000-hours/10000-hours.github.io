@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 说说Python Web框架Flask
-category: tech
+category: detail
 tags: python flask django
 ---
 

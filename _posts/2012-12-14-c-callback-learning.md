@@ -1,7 +1,7 @@
 ---
 layout: post
 title: C语言中的“回调函数”学习
-category: tech
+category: detail
 tags: C callback pointer
 ---
 

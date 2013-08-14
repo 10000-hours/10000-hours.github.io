@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iOS开发中游戏与应用开发的差别
-category: tech
+category: detail
 tags: cocos2d iOS app 对比
 ---
 

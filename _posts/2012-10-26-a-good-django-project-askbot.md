@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 开源的类StackOverflow的项目askbot
-category: tech
+category: detail
 tags: django
 ---
 

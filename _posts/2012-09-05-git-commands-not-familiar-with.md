@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Git非常用命令说明
-category: tech
+category: detail
 tags: Git Git命令
 ---
 

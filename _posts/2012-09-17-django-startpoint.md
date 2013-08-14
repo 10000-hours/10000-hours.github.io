@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 自己的一个小项目Django Startpoint
-category: tech
+category: detail
 tags: project django
 ---
 
