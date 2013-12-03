@@ -98,12 +98,14 @@ OOP最为重要的继承、动态绑定等要求相应的库有更多的信息�
 5. [dynamic linker][dynamic linker]
 6. [name mangling][name mangling]
 7. [RPC][RPC]
-8. http://www.iecc.com/linker/linker10.html
-9. http://www.cprogramming.com/tutorial/shared-libraries-linux-gcc.html
-10. http://tldp.org/HOWTO/C++-dlopen/theproblem.html
+8. [Dynamic Linking and Loading][Dynamic Linking and Loading]
+9. [Shared libraries with GCC on Linux][Shared libraries with GCC on Linux]
+10. [C++ dlopen mini HOWTO][C++ dlopen mini HOWTO]
 
 
-
+[C++ dlopen mini HOWTO]: http://tldp.org/HOWTO/C++-dlopen/theproblem.html
+[Shared libraries with GCC on Linux]: http://www.cprogramming.com/tutorial/shared-libraries-linux-gcc.html
+[Dynamic Linking and Loading]: http://www.iecc.com/linker/linker10.html
 [linker]: http://en.wikipedia.org/wiki/Linker_(computing)
 [静态链接]: http://en.wikipedia.org/wiki/Dynamic_linker
 [DLL Hell]: http://en.wikipedia.org/wiki/DLL_Hell
